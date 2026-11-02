@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" width="100%" height="100%">
+  <rect width="600" height="760" rx="22" fill="#0f0e13" />
+  <text x="28" y="48" fill="#63d297" font-family="monospace" font-size="24" font-weight="700"></></text>
+  <text x="85" y="46" fill="#a8a2b3" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Tech Stack & Tools</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(26, 72)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#e34f26" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">HTML</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">HTML5</text>
+  </g>
+  <g transform="translate(310, 72)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#1572b6" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">CSS</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">CSS3</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(26, 154)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#f7df1e" />
+    <text x="34" y="41" fill="#111" font-family="sans-serif" font-size="15" font-weight="800" text-anchor="middle">JS</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">JavaScript</text>
+  </g>
+  <g transform="translate(310, 154)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#777bb4" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">PHP</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">PHP & Adv PHP</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(26, 236)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#3776ab" />
+    <text x="34" y="40" fill="#ffd43b" font-family="sans-serif" font-size="13" font-weight="700" text-anchor="middle">PY</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Python</text>
+  </g>
+  <g transform="translate(310, 236)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#e76f00" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">JAVA</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Java & Adv Java</text>
+  </g>
+
+  <!-- Row 4 -->
+  <g transform="translate(26, 318)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#555599" />
+    <text x="34" y="41" fill="#fff" font-family="sans-serif" font-size="16" font-weight="700" text-anchor="middle">C</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">C Language</text>
+  </g>
+  <g transform="translate(310, 318)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#68217a" />
+    <text x="34" y="41" fill="#fff" font-family="sans-serif" font-size="15" font-weight="700" text-anchor="middle">C#</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">C#</text>
+  </g>
+
+  <!-- Row 5 -->
+  <g transform="translate(26, 400)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#06b6d4" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">TW</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Tailwind CSS</text>
+  </g>
+  <g transform="translate(310, 400)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#7952b3" />
+    <text x="34" y="41" fill="#fff" font-family="sans-serif" font-size="16" font-weight="700" text-anchor="middle">B</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Bootstrap</text>
+  </g>
+
+  <!-- Row 6 -->
+  <g transform="translate(26, 482)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#00758f" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">SQL</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">MySQL</text>
+  </g>
+  <g transform="translate(310, 482)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#47a248" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">DB</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">MongoDB</text>
+  </g>
+
+  <!-- Row 7 -->
+  <g transform="translate(26, 564)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#10b981" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">SEO</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">SEO & Analytics</text>
+  </g>
+  <g transform="translate(310, 564)">
+    <rect width="264" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#007acc" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">VS</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="15" font-weight="600">VS Code & Antigravity</text>
+  </g>
+
+  <!-- Row 8 (Full Width Bottom Card) -->
+  <g transform="translate(26, 646)">
+    <rect width="548" height="68" rx="12" fill="#1b1822" stroke="#2c2738" stroke-width="1.5" />
+    <rect x="16" y="16" width="36" height="36" rx="6" fill="#f24e1e" />
+    <text x="34" y="40" fill="#fff" font-family="sans-serif" font-size="12" font-weight="700" text-anchor="middle">FIG</text>
+    <text x="68" y="40" fill="#f2eef7" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Figma (UI/UX Design)</text>
+  </g>
+</svg>
