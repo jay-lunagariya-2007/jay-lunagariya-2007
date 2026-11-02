@@ -9,8 +9,8 @@ I am a BCA student at Atmiya University passionate about building responsive web
 ### Tech stack
 
 <picture>
-  <source media="(max-width:640px)" srcset="assets/tech-stack-mobile.svg">
-  <img src="assets/tech-stack.svg" width="100%" alt="Jay Lunagariya's Tech Stack: HTML5, CSS3, JavaScript, PHP, Python, Java, C, C#, Tailwind CSS, Bootstrap, MySQL, MongoDB, SEO, VS Code, and Figma.">
+  <source media="(max-width:640px)" srcset="assets/tech-stack-mobile.png">
+  <img src="assets/tech-stack.png" width="100%" alt="Jay Lunagariya's Tech Stack: HTML5, CSS3, JavaScript, PHP, Python, Java, C, C#, Tailwind CSS, Bootstrap, MySQL, MongoDB, SEO, VS Code, and Figma.">
 </picture>
 
 ### Selected work
@@ -26,6 +26,6 @@ I am a BCA student at Atmiya University passionate about building responsive web
 - **Focus Areas:** Full-Stack Web Development (PHP, JavaScript, Java, Python), Database Management (MySQL, MongoDB), Data Science, and Search Engine Optimization (SEO).
 - **Experience:** Building real-world web platforms and data intelligence dashboards, including work with **Sian Architects** and **Alphabit Infoway**.
 
-<img src="assets/footer.svg" width="100%" alt="Let’s build something useful together. Contact Jay Lunagariya.">
+<img src="assets/footer.png" width="100%" alt="Let’s build something useful together. Contact Jay Lunagariya.">
 
 [Contact me](mailto:jaylunagariya@gmail.com)
