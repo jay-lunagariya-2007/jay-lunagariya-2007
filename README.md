@@ -1,31 +1,42 @@
-<img src="assets/hero.png" width="100%" alt="Jay Lunagariya. BCA Student, Full-Stack Web Developer, Data Science and SEO enthusiast.">
+<!-- Hero Section -->
+<div align="center">
+  <img src="assets/hero.png" width="100%" alt="Profile Banner" />
+  
+  <h1>Hi, I'm Lunagariya Jay 👋</h1>
+  <h3>Data Intelligence | Full-Stack Web Developer | Founder at Sian Architects</h3>
+</div>
 
-**Jay Lunagariya** · Full-Stack Web Developer | Data Science | SEO
+---
 
-I am a BCA student at Atmiya University passionate about building responsive websites, exploring Data Science, and optimizing web visibility through SEO. I enjoy turning real-world ideas into clean, functional software.
+## 🚀 About Me
 
-[Portfolio](https://sianarchitects.com) · [LinkedIn](https://www.linkedin.com/in/jay-lunagariya) · [Email](mailto:jaylunagariya@gmail.com)
+I am a 3rd-year Bachelor of Computer Applications (BCA) student at Atmiya University with a strong focus on data intelligence and full-stack web development. I actively build web platforms, integrate AI/ML models, and lead campus community initiatives.
 
-### Tech stack
+- 🏢 **Currently working on:** Data Intelligence at Alphabit Infoway Pvt. Ltd.
+- 🏗️ **Founder & Lead Developer:** Designed, built, and deployed the full-stack web portal for Sian Architects.
+- 🎓 **Education:** Atmiya University (BCA, 2024–2027)
+- 🤝 **Community Leadership:** Internshala Student Partner representing Atmiya University & former Official College Ambassador for Techfest (IIT Bombay).
+- 📫 **How to reach me:** [તમારું ઈમેલ આઈડી અથવા લિંક્ડઈન લિંક અહી મૂકો]
 
-<picture>
-  <source media="(max-width:640px)" srcset="assets/tech-stack-mobile.png">
-  <img src="assets/tech-stack.png" width="100%" alt="Jay Lunagariya's Tech Stack: HTML5, CSS3, JavaScript, PHP, Python, Java, C, C#, Tailwind CSS, Bootstrap, MySQL, MongoDB, SEO, VS Code, and Figma.">
-</picture>
+---
 
-### Selected work
+## 💻 Tech Stack
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **Sian Architects** | Architectural, structural engineering, and interior design web portal and admin management system for business inquiries. (Completed & Live) | [Website](https://sianarchitects.com) |
-| **Data Intelligence & Web Analytics Dashboard** | Data analysis, SEO, and digital marketing intelligence management system built with Alphabit Infoway. (In Progress) | Ongoing |
+<img src="assets/tech-stack.png" width="100%" alt="Tech Stack" />
 
-### About me
+**Languages & Frameworks**
+`PHP` `Python` `C#` `JavaScript` `HTML5` `CSS3` `Laravel` `Tailwind CSS` `Bootstrap`
 
-- **Education:** Pursuing Bachelor of Computer Applications (BCA, 3rd Year) at **Atmiya University**.
-- **Focus Areas:** Full-Stack Web Development (PHP, JavaScript, Java, Python), Database Management (MySQL, MongoDB), Data Science, and Search Engine Optimization (SEO).
-- **Experience:** Building real-world web platforms and data intelligence dashboards, including work with **Sian Architects** and **Alphabit Infoway**.
+**AI, Machine Learning & Data Science**
+`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy`
 
-<img src="assets/footer.png" width="100%" alt="Let’s build something useful together. Contact Jay Lunagariya.">
+**Databases & Tools**
+`MySQL` `Git` `Figma (UI/UX)` `XAMPP` `Google Search Console`
 
-[Contact me](mailto:jaylunagariya@gmail.com)
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</div>
